@@ -82,6 +82,7 @@ The Arduino code performs the following tasks:
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
 
 ## Author
-[Your Name]  
-[Your GitHub Profile]  
-[Your Email]  
+Samyak Kamble  
+GitHub: [samyak2403](https://github.com/samyak2403)  
+Email: arrowwouldpro@gmail.com
+
