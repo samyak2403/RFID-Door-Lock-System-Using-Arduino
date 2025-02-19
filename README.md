@@ -1,5 +1,4 @@
 # RFID-Door-Lock-System-Using-Arduino
-# RFID-Based Locking System
 
 This project implements an RFID-based locking system using an Arduino, an MFRC522 RFID module, a servo motor, and an LCD display. The system locks and unlocks based on the scanned RFID card or tag. If the correct card is scanned, the servo motor changes position to simulate locking or unlocking. If an incorrect card is scanned, the system provides feedback via a buzzer and an LCD message.
 
